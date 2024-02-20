@@ -1,6 +1,6 @@
- <h1>Header<h1>
-<h2>Header<h2>
-<h3>Header<h3>
-<h4>Header<h4>
-<h5>Header<h5>
-<h6>Header<h6>
+ # This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
+
